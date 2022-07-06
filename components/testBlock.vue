@@ -1,3 +1,3 @@
 <template>
-    <div>tesdfsdfsdst</div>
+    <div>Test Block </div>
 </template>
