@@ -1,3 +1,3 @@
 <template>
-    <div>My New Component sfdgsdf</div>
+    <div>My New Component</div>
 </template>
