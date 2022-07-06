@@ -1,3 +1,3 @@
 <template>
-    <div>My New Component now shared</div>
+    <div>My New Component now shared </div>
 </template>
