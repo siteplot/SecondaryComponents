@@ -10,10 +10,13 @@
 </template>
 <script>
  module.exports = {
-    data: function () {
+    data() {
        return { 
         buttonText: 'Button Text'
        }
+    },
+    mounted(){
+        console.log('test log');
     }
  }
 </script>
